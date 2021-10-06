@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ptithcm/controller/Data.java=UTF-8
+encoding//src/main/java/ptithcm/controller/Index.java=UTF-8
+encoding//src/main/java/ptithcm/controller/Login.java=UTF-8
+encoding//src/main/java/ptithcm/controller/Mail.java=UTF-8
+encoding//src/main/java/ptithcm/controller/StoryController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/ViewChap.java=UTF-8
+encoding//src/main/java/ptithcm/entity/Story.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
